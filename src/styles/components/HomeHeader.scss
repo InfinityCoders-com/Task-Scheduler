@@ -1,0 +1,18 @@
+.home-header{
+  font-family: Tuna;
+  color: #9d9494;
+  h4.logo{
+
+  }
+  ul.header-menu{
+    display: block;
+    position: absolute;
+    right: 10vw;
+    li {
+      float: left;
+      display: inline-block;
+      padding: 8px 15px;
+      font-weight: 800;
+    }
+  }
+}
