@@ -1,6 +1,2 @@
-# diMusco
-
-clone
-cd warehouse-panel
-npm install
-npm start  // to run frontend
+# Task-Scheduler
+Task Assignee and manager
